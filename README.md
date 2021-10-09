@@ -13,7 +13,7 @@
 
 This bot uses the [JokeAPI](https://github.com/Sv443/JokeAPI) from [@Sv443](https://github.com/Sv443) to bring humour into your Telegram chats.
 
-__TO DO: insert .gif__
+![Funny](https://user-images.githubusercontent.com/15004217/136656186-91b258ba-73ca-416a-af80-513dd18d79fb.gif)
 
 ### Requirements
 
