@@ -1,5 +1,5 @@
 [![Telegram New Game Releases Bot](https://img.shields.io/badge/Telegram-Bot-blue?logo=telegram)](https://t.me/FunnyTelegramBot)
-![healthchecks.io](https://img.shields.io/endpoint?label=Funny&style=flat-square&url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2FBgFs26OS%2FFunny.shields)
+![healthchecks.io](https://img.shields.io/endpoint?url=https%3A%2F%2Fhealthchecks.io%2Fbadge%2F396c7d03-faf7-4562-9f83-1194d0%2FfiDxmDo_%2FFunny.shields)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/FunnyTelegramBot)](https://github.com/Crazy-Marvin/FunnyTelegramBot/blob/trunk/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/FunnyTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/FunnyTelegramBot/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/FunnyTelegramBot/total.svg?style=flat)](https://github.com/Crazy-Marvin/FunnyTelegramBot/releases)
@@ -7,7 +7,9 @@
 [![Issues](https://img.shields.io/github/issues/Crazy-Marvin/FunnyTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/FunnyTelegramBot/issues)
 [![Pull requests](https://img.shields.io/github/issues-pr/Crazy-Marvin/FunnyTelegramBot.svg?style=flat)](https://github.com/Crazy-Marvin/FunnyTelegramBot/pulls)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8c456ffe4305419aac029af0d975122c)](https://www.codacy.com/gh/Crazy-Marvin/FunnyTelegramBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Crazy-Marvin/FunnyTelegramBot&amp;utm_campaign=Badge_Grade)
+![Snyk Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/Crazy-Marvin/FunnyTelegramBot)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreenChat)
+[![Telegram Funny Bot](https://img.shields.io/badge/Python-yellow?logo=python)](https://t.me/FunnyTelegramBot)
 
 # Funny Telegram Bot
 
