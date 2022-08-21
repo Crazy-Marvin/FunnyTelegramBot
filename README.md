@@ -22,6 +22,8 @@ This bot uses the [JokeAPI](https://github.com/Sv443/JokeAPI) from [@Sv443](http
 - Token from [@Botfather](https://telegram.me/botfather)
 - SSL certificate (I recommend [Let's Encrypt](https://letsencrypt.org/))
 - Webserver running [Python](https://www.python.org/) (tested with [Apache](https://httpd.apache.org/) & [NGINX](https://www.nginx.com/) but others should work too)
+- Google Cloud service account credentials (JSON) for accessing Google Sheets API & Google Drive API
+- [Sentry](https://sentry.io/) key (optional)
 - [Healthchecks](https://healthchecks.io/#php) URL (optional)
 
 # Contributing
